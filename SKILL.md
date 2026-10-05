@@ -1,14 +1,19 @@
 ---
 
 name: jira-ticket-description
-description: Transform technical requirements, implementation notes, bug reports, or informal descriptions into clear, structured, business-oriented Jira ticket descriptions. Use this skill when creating, rewriting, or improving Jira tickets, requirements, acceptance criteria, business rules, or technical task descriptions.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+description: >-
+Transforms technical requirements, implementation notes, bug reports, or
+informal descriptions into clear, structured, business-oriented Jira ticket
+descriptions. Use when creating, rewriting, or improving Jira tickets,
+requirements, acceptance criteria, business rules, or technical task
+descriptions.
+-------------
 
 # Jira Ticket Description Skill
 
 ## Purpose
 
-This skill transforms technical prompts, requirements, implementation notes, bug reports, or informal descriptions into **clear, structured, and business-oriented Jira ticket descriptions**.
+This skill is responsible for transforming technical prompts, requirements, implementation notes, bug reports, or informal descriptions into **clear, structured, and business-oriented Jira ticket descriptions**.
 
 The generated description should focus on:
 
@@ -63,7 +68,7 @@ Prefer:
 
 > Before creating a new record, the system must verify the number of existing records associated with the user and ensure that the configured limit has not been reached.
 
-Implementation details should only be included when necessary to clarify the requirement or prevent ambiguity.
+Implementation details should only be included when they are necessary to clarify the requirement or prevent ambiguity.
 
 ---
 
