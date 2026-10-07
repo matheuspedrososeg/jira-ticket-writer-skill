@@ -1,13 +1,12 @@
 ---
-
 name: jira-ticket-description
 description: >-
-Transforms technical requirements, implementation notes, bug reports, or
-informal descriptions into clear, structured, business-oriented Jira ticket
-descriptions. Use when creating, rewriting, or improving Jira tickets,
-requirements, acceptance criteria, business rules, or technical task
-descriptions.
--------------
+  Transforms technical requirements, implementation notes, bug reports, or
+  informal descriptions into clear, structured, business-oriented Jira ticket
+  descriptions. Use when creating, rewriting, or improving Jira tickets,
+  requirements, acceptance criteria, business rules, or technical task
+  descriptions.
+---
 
 # Jira Ticket Description Skill
 
